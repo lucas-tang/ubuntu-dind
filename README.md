@@ -47,3 +47,5 @@ To do this in the GOOD AND SECURE WAY just use: https://github.com/nestybox/sysb
 
 
 
+action after fork:
+install github runner
